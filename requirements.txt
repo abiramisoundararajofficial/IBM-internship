@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+PyMuPDF
+
+# Optional / future (add later when enabling features):
+# langchain
+# langgraph
+# faiss-cpu
+# sentence-transformers
+# huggingface-hub
+# ollama
+numpy
+faiss-cpu
+sentence-transformers
